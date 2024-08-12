@@ -1,0 +1,69 @@
+﻿<Window x:Class="TypingGameWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TypingGameWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="200"
+        PreviewKeyDown="Window_PreviewKeyDown" Background="Black">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Grid.Column="0" Text="Progress:" Foreground="White"></TextBlock>
+            <TextBlock Grid.Row="1" Grid.Column="0" Text="typingSpeed:" Foreground="White"></TextBlock>
+            <TextBlock Grid.Row="2" Grid.Column="0" Text="miss:" Foreground="White"></TextBlock>
+            <TextBlock Grid.Row="3" Grid.Column="0" Text="latency:" Foreground="White"></TextBlock>
+            <TextBlock Grid.Row="4" Grid.Column="0" Text="typingText:" Foreground="White"></TextBlock>
+            <TextBlock Grid.Row="5" Grid.Column="0" Text="kanaText:" Foreground="White"></TextBlock>
+            <TextBlock Grid.Row="0" Grid.Column="1" Name="progress" Foreground="White"></TextBlock>
+            <TextBlock Grid.Row="1" Grid.Column="1" Name="typingSpeed" Foreground="White"></TextBlock>
+            <TextBlock Grid.Row="2" Grid.Column="1" Name="miss" Foreground="White"></TextBlock>
+            <TextBlock Grid.Row="3" Grid.Column="1" Name="latency" Foreground="White"></TextBlock>
+            <TextBlock Grid.Row="4" Grid.Column="1" Name="typingText" Foreground="White"></TextBlock>
+            <TextBlock Grid.Row="5" Grid.Column="1" Name="kanaText" Foreground="White"></TextBlock>
+        </Grid>
+        <Grid Grid.Row="0" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Button Grid.Row="0" Grid.Column="0" Click="Button_Click" Name="start">
+                <TextBlock Text="スタート" Name="count"></TextBlock>
+            </Button>
+            <ListView Grid.Row="1" Grid.RowSpan="3" Grid.Column="0" Name="list">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="type" Width="70"></GridViewColumn>
+                        <GridViewColumn Header="latency" Width="10"></GridViewColumn>
+                        <GridViewColumn Header="typingSpeed" Width="10"></GridViewColumn>
+                        <GridViewColumn Header="miss" Width="10"></GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+    </Grid>
+</Window>

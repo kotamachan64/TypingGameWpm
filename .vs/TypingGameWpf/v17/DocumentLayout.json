@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|c:\\users\\masaki\\source\\repos\\typinggamewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|c:\\users\\masaki\\source\\repos\\typinggamewpf\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|c:\\users\\masaki\\source\\repos\\typinggamewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|c:\\users\\masaki\\source\\repos\\typinggamewpf\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|solutionrelative:question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|c:\\users\\masaki\\source\\repos\\typinggamewpf\\japanese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|solutionrelative:japanese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|c:\\users\\masaki\\source\\repos\\typinggamewpf\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|solutionrelative:score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|c:\\users\\masaki\\source\\repos\\typinggamewpf\\kanajapanese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|solutionrelative:kanajapanese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|c:\\users\\masaki\\source\\repos\\typinggamewpf\\launguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|solutionrelative:launguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|c:\\users\\masaki\\source\\repos\\typinggamewpf\\detectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|solutionrelative:detectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|c:\\users\\masaki\\source\\repos\\typinggamewpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BF0F84E-2745-4ED9-A4DA-2387A74CA5A8}|TypingGameWpf.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 247,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Japanese.cs",
+              "DocumentMoniker": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\Japanese.cs",
+              "RelativeDocumentMoniker": "Japanese.cs",
+              "ToolTip": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\Japanese.cs",
+              "RelativeToolTip": "Japanese.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T23:41:54.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\Score.cs",
+              "RelativeDocumentMoniker": "Score.cs",
+              "ToolTip": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\Score.cs",
+              "RelativeToolTip": "Score.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwv2wAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:00:16.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KanaJapanese.cs",
+              "DocumentMoniker": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\KanaJapanese.cs",
+              "RelativeDocumentMoniker": "KanaJapanese.cs",
+              "ToolTip": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\KanaJapanese.cs",
+              "RelativeToolTip": "KanaJapanese.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvz8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:00:25.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\Question.cs",
+              "RelativeDocumentMoniker": "Question.cs",
+              "ToolTip": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\Question.cs",
+              "RelativeToolTip": "Question.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvwwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:21:04.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-11T10:37:23.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Launguage.cs",
+              "DocumentMoniker": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\Launguage.cs",
+              "RelativeDocumentMoniker": "Launguage.cs",
+              "ToolTip": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\Launguage.cs",
+              "RelativeToolTip": "Launguage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:00:52.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwBsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:25:39.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetectResult.cs",
+              "DocumentMoniker": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\DetectResult.cs",
+              "RelativeDocumentMoniker": "DetectResult.cs",
+              "ToolTip": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\DetectResult.cs",
+              "RelativeToolTip": "DetectResult.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:58:05.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 153,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-11T10:23:26.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\masaki\\source\\repos\\TypingGameWpf\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAD4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-11T10:14:31.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
